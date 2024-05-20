@@ -1,0 +1,3 @@
+Battery Level: 90%
+Speed: 8 m/s
+Altitude: 60 meters

@@ -1,0 +1,3 @@
+Battery Level: 100%
+Speed: 0 m/s
+Altitude: 0 meters
